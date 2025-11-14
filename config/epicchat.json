@@ -1,0 +1,11 @@
+{
+  "chatFormat": "%prefix%%name%%suffix% &8»&r %message%",
+  "enableNicknames": true,
+  "enableLegacyCodes": true,
+  "enableHexCodes": true,
+  "enableBold": true,
+  "enableItalic": true,
+  "enableUnderline": true,
+  "enableStrikethrough": true,
+  "enableObfuscated": true
+}

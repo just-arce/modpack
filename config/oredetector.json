@@ -1,0 +1,19 @@
+{
+  "enableVoidDetector": true,
+  "rangeVoidDetector": 10,
+  "durabilityVoidDetector": 100,
+  "enableCoalDetector": true,
+  "rangeCoalDetector": 9,
+  "durabilityCoalDetector": 100,
+  "enableIronDetector": true,
+  "rangeIronDetector": 10,
+  "durabilityIronDetector": 150,
+  "enableGoldDetector": true,
+  "rangeGoldDetector": 11,
+  "durabilityGoldDetector": 200,
+  "enableDiamondDetector": true,
+  "rangeDiamondDetector": 12,
+  "durabilityDiamondDetector": 250,
+  "enableParticles": true,
+  "debugLevel": 0
+}
