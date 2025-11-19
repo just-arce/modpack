@@ -1,0 +1,34 @@
+{
+  "spawnSettings": {
+    "spawnChance": 1000,
+    "minHordSize": 5,
+    "maxHordSize": 15,
+    "minPlayerDistance": 24,
+    "maxPlayerDistance": 48,
+    "requireNightTime": true,
+    "hordesEnabled": true,
+    "oceanHordesRequireNight": false
+  },
+  "performance": {
+    "maxActiveHordes": 3,
+    "despawnTimeMinutes": 10,
+    "cooldownMinutes": 5
+  },
+  "broadcast": {
+    "enabled": true,
+    "radius": 100
+  },
+  "hordeTypes": {
+    "zombieHordsEnabled": true,
+    "skeletonHordsEnabled": true,
+    "mixedHordsEnabled": true,
+    "zombifiedHordsEnabled": true,
+    "endHordsEnabled": true,
+    "oceanHordsEnabled": true,
+    "piglinHordsEnabled": true,
+    "magmacubeHordsEnabled": true,
+    "netherFortressHordsEnabled": true,
+    "netherMixedHordsEnabled": true,
+    "soulSandHordsEnabled": true
+  }
+}
